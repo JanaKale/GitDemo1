@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browserName" value="edge"/>
+  <listeners>
+    <listener class-name="com.qa.util.Listeners.MyListener"/>
+    <listener class-name="com.qa.util.Listeners.MyTransformer"/>
+  </listeners>
+  <test thread-count="5" name="MyntraTest(failed)">
+    <classes>
+      <class name="myntratest.ProductTest">
+        <methods>
+          <include name="verifyPoloSearchResult"/>
+          <include name="verifyCategoryList"/>
+          <include name="setUp"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- myntratest.ProductTest -->
+    </classes>
+  </test> <!-- MyntraTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,366 @@
+2022-07-25 01:50:45,679 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 01:50:51,679 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 01:51:02,894 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 10:23:31,695 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 10:23:50,338 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 10:24:00,814 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 10:24:23,296 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 10:24:36,314 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 10:26:03,362 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 10:26:17,055 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 10:26:36,972 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 10:28:15,028 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 10:29:13,425 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 10:29:34,517 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 10:57:52,428 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 10:58:32,445 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 10:58:42,134 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 10:59:16,704 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 10:59:40,762 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 11:00:21,359 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 11:05:50,818 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 11:06:23,053 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 11:06:50,938 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 11:08:25,756 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 11:08:57,954 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 11:09:18,679 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 11:23:56,604 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 11:24:21,546 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 11:24:45,046 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 11:27:46,668 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 11:28:08,012 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 11:28:35,070 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 11:34:28,174 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 11:34:49,749 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 11:35:14,005 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 11:36:11,705 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 11:37:22,424 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 11:37:44,784 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 11:39:53,836 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 11:40:16,677 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 11:40:47,586 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 11:41:40,226 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 11:42:18,684 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 11:42:40,895 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 12:24:47,651 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 12:25:07,134 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 12:25:44,900 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 12:36:15,884 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 12:36:38,247 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 12:37:01,274 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 15:07:51,947 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 15:08:05,012 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 15:08:35,786 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 15:58:20,025 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 15:58:35,492 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:04:13,320 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:04:55,801 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:05:21,452 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:06:47,044 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:12:37,089 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:12:52,293 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:13:25,016 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:20:22,333 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:20:45,330 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:20:50,587 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:24:38,814 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:25:07,300 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:25:16,532 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:40:44,419 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:40:56,840 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:41:02,108 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:44:11,157 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:45:01,263 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:45:10,468 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:45:11,872 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:45:15,193 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:45:49,481 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:46:20,737 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:46:59,781 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:47:01,126 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:47:22,035 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:47:38,158 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:47:39,428 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:48:17,587 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:48:43,779 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:53:12,370 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:53:51,403 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:54:36,231 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:54:37,685 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:55:24,904 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:55:45,069 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 16:55:46,282 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 16:56:19,182 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 16:56:52,383 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:24:47,404 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:25:53,959 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:26:16,805 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:26:18,130 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:27:11,972 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:28:40,525 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:28:43,132 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:29:07,642 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:29:28,351 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:29:29,796 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:29:44,848 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:29:59,971 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:30:01,227 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:30:27,264 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:30:50,394 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:30:51,839 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:31:22,303 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:31:22,663 - com.qa.pagetest.HomePageTest -INFO - Home Page Title:
+2022-07-25 17:31:22,664 - com.qa.pagetest.HomePageTest -INFO - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-07-25 17:31:31,877 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:31:33,126 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:31:46,835 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:32:02,242 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:32:03,469 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:32:16,818 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:32:26,635 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:32:27,848 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:32:39,761 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:32:52,528 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:32:53,791 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:33:13,043 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:33:23,347 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:33:24,664 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:33:42,008 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:33:55,546 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:33:56,798 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:34:12,438 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:34:27,341 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:34:28,824 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:34:44,106 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:35:00,417 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:35:01,917 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:35:15,911 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:35:25,194 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:35:26,576 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:35:46,998 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:36:01,246 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:36:02,500 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:36:12,223 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:36:23,020 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 17:36:38,394 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:36:39,762 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:37:02,575 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:37:20,110 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 17:37:37,103 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:37:38,455 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:37:48,231 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:37:59,906 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:38:01,091 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:38:15,844 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:38:30,029 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:38:31,580 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:38:52,547 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:39:07,169 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:39:08,490 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:39:23,617 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:39:36,755 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:39:38,139 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:39:59,974 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:40:15,767 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:40:16,974 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:40:40,982 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:41:05,788 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:41:07,091 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:41:13,990 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:41:37,505 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:41:38,818 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:41:52,188 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:42:07,430 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:42:09,104 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:42:35,707 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:43:04,021 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:43:05,305 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:43:38,299 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:43:55,890 - com.qa.pages.HomePage -INFO - Clicked on mobiles
+2022-07-25 17:44:03,667 - com.qa.pages.MobilesPage -INFO - Clicked on Smartphones and basic mobiles
+2022-07-25 17:44:07,691 - com.qa.pages.MobilesPage -INFO - Clicked on Smartphones
+2022-07-25 17:44:50,324 - com.qa.pages.MobilesPage -INFO - Clicked on Redmi 9A
+2022-07-25 17:44:50,905 - com.qa.pages.MobilesPage -INFO - Clicked on Add to cart button
+2022-07-25 17:45:09,106 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:45:10,592 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:45:42,041 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:46:04,206 - com.qa.pages.HomePage -INFO - Clicked on books
+2022-07-25 17:46:09,928 - com.qa.pages.BooksPage -INFO - clicked On TodaysDeals chbx
+2022-07-25 17:46:10,456 - com.qa.pages.BooksPage -INFO - clicked On SortByDropdown
+2022-07-25 17:46:24,463 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:46:25,778 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:47:05,729 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:47:20,849 - com.qa.pages.HomePage -INFO - Clicked on fashion
+2022-07-25 17:47:46,401 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:47:47,764 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:48:27,503 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:48:44,788 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:48:46,494 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:49:31,561 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:50:25,474 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:50:26,771 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:51:10,009 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:51:22,771 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 17:51:24,188 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 17:51:53,648 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 17:52:07,120 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:12:48,456 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:13:37,638 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:13:54,292 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:13:55,831 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:14:37,037 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:14:58,001 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:15:00,939 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:15:40,974 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:16:28,481 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:16:30,118 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:16:56,223 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:17:11,575 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:17:12,988 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:17:30,113 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:17:46,349 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:17:47,801 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:18:26,351 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:18:51,566 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:18:52,995 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:19:44,466 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:20:10,748 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:20:12,244 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:20:53,668 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:20:54,228 - com.qa.pagetest.HomePageTest -INFO - Home Page Title:
+2022-07-25 18:20:54,229 - com.qa.pagetest.HomePageTest -INFO - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-07-25 18:21:03,479 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:21:04,889 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:21:45,407 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:21:54,880 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:21:56,199 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:22:41,962 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:22:51,438 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:22:52,860 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:23:17,942 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:23:35,310 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:23:36,679 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:24:02,422 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:24:21,072 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:24:22,421 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:25:53,742 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:26:33,032 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:26:36,173 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:28:29,963 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:29:15,151 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:29:16,639 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:30:33,696 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:36:53,341 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:36:55,009 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:38:17,979 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:38:38,011 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:38:40,175 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:39:27,379 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:39:45,656 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:39:46,925 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:40:47,502 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:41:32,677 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:41:34,219 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:43:32,945 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:44:15,181 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:44:16,750 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:45:00,630 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:45:23,350 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:45:24,666 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:46:23,851 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 18:46:47,566 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 18:46:48,837 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 18:47:42,695 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 22:43:16,609 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 22:43:56,347 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 22:44:15,579 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 22:44:16,880 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 22:44:43,176 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 22:45:02,654 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 22:45:03,903 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 22:45:32,899 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-25 22:45:52,630 - com.qa.keywords.UIKeywords -INFO - Browser is closed
+2022-07-25 23:36:21,787 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 23:36:55,196 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-25 23:37:38,877 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 23:38:12,353 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-25 23:39:20,164 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 23:39:58,017 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 23:41:07,278 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-25 23:42:17,265 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 23:42:54,058 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 23:43:49,849 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-25 23:56:10,618 - com.qa.config.TestBase -INFO - browser open
+2022-07-25 23:56:32,482 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-25 23:57:07,716 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-26 00:05:18,800 - com.qa.config.TestBase -INFO - browser open
+2022-07-26 00:05:36,972 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-26 00:06:12,471 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-26 00:07:05,407 - com.qa.config.TestBase -INFO - browser open
+2022-07-26 00:07:24,247 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-26 00:07:52,550 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-26 00:11:40,331 - com.qa.config.TestBase -INFO - browser open
+2022-07-26 00:11:58,138 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-26 00:13:11,560 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-26 00:19:17,517 - com.qa.config.TestBase -INFO - browser open
+2022-07-26 00:19:38,071 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-26 00:20:29,382 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-26 00:28:20,821 - com.qa.config.TestBase -INFO - browser open
+2022-07-26 00:28:26,039 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-26 00:28:38,684 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-26 00:29:25,392 - com.qa.config.TestBase -INFO - browser open
+2022-07-26 00:29:34,414 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-26 00:29:46,590 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 11:26:56,483 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 11:27:28,777 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.myntra.com/
+2022-07-27 11:27:49,514 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 14:35:40,098 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 14:35:44,001 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:40:58,190 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:41:24,517 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-27 16:41:29,803 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:41:33,517 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:41:49,977 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-27 16:42:09,010 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:42:12,595 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:42:18,316 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:42:21,745 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:42:27,340 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:42:30,752 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:42:36,431 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:42:39,846 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:42:45,495 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:55:42,489 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:55:58,913 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-27 16:56:04,363 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:56:07,878 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:56:35,036 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-27 16:56:54,258 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:56:59,555 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:57:05,386 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:57:08,914 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:57:15,149 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:57:18,420 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:57:23,895 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 16:57:27,308 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 16:57:33,314 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 19:13:18,087 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 19:14:36,344 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-27 19:14:42,811 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 19:14:46,778 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 19:15:13,716 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-27 19:15:32,777 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 19:16:51,584 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 19:17:04,312 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-27 19:17:09,359 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 19:17:12,853 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 19:17:25,837 - com.qa.keywords.UIKeywords -INFO - URL is launched  https://www.amazon.in/
+2022-07-27 19:17:45,371 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 19:17:48,928 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 19:17:54,527 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 19:17:58,141 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 19:18:04,286 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 19:18:07,719 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 19:18:13,141 - com.qa.config.TestBase -INFO - Browser is closed
+2022-07-27 19:18:16,745 - com.qa.config.TestBase -INFO - browser open
+2022-07-27 19:18:24,223 - com.qa.config.TestBase -INFO - Browser is closed
