@@ -1,12 +1,16 @@
 package com.qa.pages;
 
+import java.util.List;
+
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.qa.config.TestBase;
 import com.qa.keywords.UIKeywords;
+import com.qa.keywords.keywords;
 import com.qa.util.WaitFor;
 
 public class MobilesPage extends TestBase {
@@ -19,14 +23,23 @@ public class MobilesPage extends TestBase {
 	@FindBy(xpath = "//span[text()='Smartphones']")
 	public WebElement smartphones;
 
-	@FindBy(css = ".a-column.a-span12.aok-float-right>div:nth-child(2) div.a-section.octopus-pc-card-content li.octopus-pc-item.octopus-pc-item-v3 a[title*='Redmi 9A']")
+	@FindBy(css = "a[href*='Redmi-9A-Sport-Octa-core'][class='a-link-normal octopus-pc-item-link']")
 	public WebElement redmi9A;
 
 	@FindBy(css = "#add-to-cart-button")
 	public WebElement addToCart;
 
-	@FindBy(css = "#attach-added-to-cart-message div#attachDisplayAddBaseAlert span")
+	@FindBy()
+	public WebElement proceedToCheckout;
+	
+	@FindBy(css = ".a-size-medium-plus.a-color-base.sw-atc-text.a-text-bold")
 	public WebElement addedToCart;
+	
+	@FindBy(css="div[id='attach-desktop-sideSheet']")
+	public WebElement sideSheet;
+	
+	@FindBy(css="#attach-accessory-pane")
+	public WebElement side;
 
 	public MobilesPage() {
 		PageFactory.initElements(UIKeywords.driver, this);
@@ -54,7 +67,9 @@ public class MobilesPage extends TestBase {
 	}
 
 	public boolean validateAddedToCart() {
-		System.out.println(UIKeywords.driver.getWindowHandles().size());
-		return addedToCart.isDisplayed();
+		//addedToCart=side.findElement(By.cssSelector("#attach-added-to-cart-message div#attachDisplayAddBaseAlert span"));
+	String text=addedToCart.getText();
+	System.out.println(text);
+		return true;
 	}
 }

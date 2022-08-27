@@ -1,0 +1,1 @@
+{"uuid":"b39510c4-41b8-40d9-9ef7-a7ff86c61b0f","name":"com.qa.config.TestBase.close","children":["bc29ebb9-2061-4f49-8488-5af133784049"],"description":"","befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1661265748454,"stop":1661265751837}],"start":1661265748453,"stop":1661265751837}

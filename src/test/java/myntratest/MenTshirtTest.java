@@ -14,8 +14,7 @@ public void verifyIfSearchByPopularityYieldsProperresult(){
 		MenTshirtPage mp=new MenTshirtPage();
 		mp.clickOnTshirt();
 		mp.clickOnSortByFilter();
-		mp.clickOnPopularity();
-		
+		mp.clickOnPopularity();		
+    }
 }
-}
- 
+    

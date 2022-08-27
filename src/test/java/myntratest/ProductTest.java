@@ -2,7 +2,6 @@ package myntratest;
 
 import java.awt.event.KeyEvent;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -17,7 +16,8 @@ public class ProductTest extends TestBase {
 	@Test
 	public void verifyPoloSearchResult() {
 		UIKeywords.launchURL("URL");
-		UIKeywords.sendKeys("search_box", "key");
+		UIKeywords keyword=new UIKeywords();
+		keyword.sendKeys("search_box", "key");
 		UIKeywords.hitButton(KeyEvent.VK_ENTER);
 		List<String> productTitles = UIKeywords.getText("product_txt");
 		productTitles.forEach(p -> System.out.println(p));

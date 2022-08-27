@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="myntratest.MenTshirtTest">
+      <class name="com.qa.pagetest.BookPageTest">
         <methods>
-          <include name="verifyIfSearchByPopularityYieldsProperresult"/>
-          <include name="setUp"/>
-          <include name="close"/>
+          <include name="bookTest"/>
         </methods>
-      </class> <!-- myntratest.MenTshirtTest -->
+      </class> <!-- com.qa.pagetest.BookPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

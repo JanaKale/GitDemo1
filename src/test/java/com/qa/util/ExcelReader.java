@@ -1,6 +1,5 @@
 package com.qa.util;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 
@@ -9,30 +8,28 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExcelReader {
 	public Object[][] loadData(String filename, String sheetname) throws IOException {
-		File file=new File(filename);
-		System.out.println(filename);
-		System.out.println(file.exists());
 		Object[][] obj = null;
 		Workbook book = null;
 		FileInputStream fis = new FileInputStream(filename);
 		
-		if (filename.endsWith("xls")) {
+		book=WorkbookFactory.create(fis);
+		
+		/* if (filename.endsWith("xls")) {
 			book = new HSSFWorkbook(fis);
 		} else if (filename.endsWith("xlsx")) {
 			book = new XSSFWorkbook(fis);
-		}
+		} */
 		
 		Sheet sheet = book.getSheet(sheetname);
 		obj=new Object[sheet.getLastRowNum()][sheet.getRow(0).getLastCellNum()];
-		System.out.println(sheet.getPhysicalNumberOfRows());
 	
 		for (int j = 1; j <= sheet.getLastRowNum(); j++) {
 			Row row = sheet.getRow(j);
-			System.out.println(row.getPhysicalNumberOfCells());
 			for (int i = 0; i < row.getLastCellNum(); i++) {
 				Cell cell = row.getCell(i);
 				switch (cell.getCellType()) {

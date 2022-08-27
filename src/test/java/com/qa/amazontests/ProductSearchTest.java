@@ -21,7 +21,8 @@ public class ProductSearchTest extends TestBase{
 	@Test
 	public void searchProduct() throws InterruptedException {
 		UIKeywords.launchURL("site_URL");
-		UIKeywords.sendKeys("home_Search_Txtbox", "text_To_Search");
+		UIKeywords uikeyword=new UIKeywords();
+		uikeyword.sendKeys("home_Search_Txtbox", "text_To_Search");
 		Thread.sleep(5000);
 		// UIKeywords.waitFor("home_Search_Txtbox");
 		UIKeywords.hitButton(KeyEvent.VK_ENTER);

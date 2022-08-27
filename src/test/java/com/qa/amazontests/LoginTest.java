@@ -1,6 +1,5 @@
 package com.qa.amazontests;
 
-import java.io.IOException;
 import java.util.List;
 
 import org.openqa.selenium.WebElement;
@@ -37,14 +36,15 @@ public class LoginTest extends TestBase {
 
 	@Test(dataProvider = "LoginData",dataProviderClass = DataProviders.class)
 	public void verifyLogin(String UserName,String Password) {
+		UIKeywords keyword=new UIKeywords();
 		UIKeywords.launchURL("site_URL");
 		UIKeywords.mouseHover("account_Login");
 		UIKeywords.click("sign_in_btn");
 		Assert.assertTrue(UIKeywords.isDisplayed("user_Name"), "Username textbox not displayed on loginpage");
-		UIKeywords.sendKeys("user_Name", UserName);
+		keyword.sendKeys("user_Name", UserName);
 		UIKeywords.click("continue_btn");
 		Assert.assertTrue(UIKeywords.isDisplayed("password"), "password textbox not displayed on loginpage");
-		UIKeywords.sendKeys("password", Password);
+		keyword.sendKeys("password", Password);
 		UIKeywords.click("sign_In_Submit");
 		String text = UIKeywords.getEleTxt("loged_In_User");
 		String name=PropUtility.getEnvDetails("customer_Name");
@@ -66,7 +66,8 @@ public class LoginTest extends TestBase {
 		UIKeywords.launchURL("site_URL");
 		UIKeywords.mouseHover("account_Login");
 		UIKeywords.click("sign_in_btn");
-		UIKeywords.sendKeys("user_Name", "userName");
+		UIKeywords uiKeywords = new UIKeywords();
+		uiKeywords.sendKeys("user_Name", "userName");
 		UIKeywords.click("continue_btn");
 		UIKeywords.click("sign_In_Submit");
 		String text = UIKeywords.getEleTxt("password_Missing_errtxt");
@@ -97,7 +98,8 @@ public class LoginTest extends TestBase {
 		UIKeywords.launchURL("site_URL");
 		UIKeywords.mouseHover("account_Login");
 		UIKeywords.click("sign_in_btn");
-		UIKeywords.sendKeys("user_Name", "userName");
+		UIKeywords uiKeywords = new UIKeywords();
+		uiKeywords.sendKeys("user_Name", "userName");
 		UIKeywords.click("continue_btn");
 		Assert.assertTrue(UIKeywords.isDisplayed("forgot_Password_link"), "Create account link is not displayed");
 	}
@@ -107,7 +109,8 @@ public class LoginTest extends TestBase {
 		UIKeywords.launchURL("site_URL");
 		UIKeywords.mouseHover("account_Login");
 		UIKeywords.click("sign_in_btn");
-		UIKeywords.sendKeys("user_Name", "userName");
+		UIKeywords uiKeywords = new UIKeywords();
+		uiKeywords.sendKeys("user_Name", "userName");
 		UIKeywords.click("continue_btn");
 		String loginpageTitle = UIKeywords.getTitle();
 		UIKeywords.click("forgot_Password_link");
@@ -134,7 +137,8 @@ public class LoginTest extends TestBase {
 		UIKeywords.launchURL("site_URL");
 		UIKeywords.mouseHover("account_Login");
 		UIKeywords.click("sign_in_btn");
-		UIKeywords.sendKeys("user_Name", "userName");
+		UIKeywords uiKeywords = new UIKeywords();
+		uiKeywords.sendKeys("user_Name", "userName");
 		UIKeywords.click("continue_btn");
 		boolean result1 = UIKeywords.getElement("remember_Me_chbx").isSelected();
 		UIKeywords.click("remember_Me_chbx");

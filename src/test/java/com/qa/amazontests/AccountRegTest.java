@@ -55,10 +55,11 @@ public class AccountRegTest extends TestBase {
 		UIKeywords.launchURL("site_URL");
 		UIKeywords.mouseHover("account_Login");
 		UIKeywords.click("start_Here_link");
-		UIKeywords.sendKeys("customer_Name_txtbx",name);
-		UIKeywords.sendKeys("emailORmobile_No_txtbx", email);
-		UIKeywords.sendKeys("alternate_Email_txtbx", alt_email);
-		UIKeywords.sendKeys("password_txtbx", password);
+		UIKeywords uiKeywords = new UIKeywords();
+		uiKeywords.sendKeys("customer_Name_txtbx", name);
+		uiKeywords.sendKeys("emailORmobile_No_txtbx", email);
+		uiKeywords.sendKeys("alternate_Email_txtbx", alt_email);
+		uiKeywords.sendKeys("password_txtbx", password);
 		UIKeywords.click("continue_btn");	
 		
 	}
