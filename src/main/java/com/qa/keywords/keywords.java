@@ -29,6 +29,7 @@ public class keywords {
 		switch (browsername.toLowerCase()) {
 		case "chrome":
 			ChromeOptions option = new ChromeOptions();
+			option.addArguments("headless");
 			option.addArguments("--disable-notifications");
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver(option);

@@ -6,6 +6,8 @@
       <class name="com.qa.pagetest.BookPageTest">
         <methods>
           <include name="bookTest"/>
+          <include name="setUp"/>
+          <include name="close"/>
         </methods>
       </class> <!-- com.qa.pagetest.BookPageTest -->
     </classes>

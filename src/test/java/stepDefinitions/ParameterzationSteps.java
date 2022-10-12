@@ -39,12 +39,12 @@ public class ParameterzationSteps {
 		System.out.println("Result of addition:" + result);
 	}
 
-	@Given("I have a fruite {string}")
+	@Given("I have a fruite {word}")
 	public void acceptFruite(String fruit) {
 		fruitName = fruit;
 	}
 
-	@Then("Display its {string}")
+	@Then("Display its {word}")
 	public void displayColor(String color) {
 		System.out.println(fruitName + " is " + color);
 	}
@@ -58,6 +58,8 @@ public class ParameterzationSteps {
 	 */
 	public void acceptAndPrintStates(DataTable states) {
 		System.out.println("==========States=========");
+		
+		List<List<String>> state=states.asLists(String.class);
 		Map<String, List> stateDetail = states.asMap(String.class, List.class);
 		Set<Entry<String, List>> entry = stateDetail.entrySet();
 		for (Entry<String, List> ent : entry) {

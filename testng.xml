@@ -13,7 +13,6 @@
 			<class name="com.qa.amazontests.ProductSearchTest" />
 			<class name="com.qa.pagetest.LoginPageTest" />
 			<class name="com.qa.pagetest.HomePageTest" />
-			<class name="com.qa.pagetest.roughtests" />
 		</classes>
 	</test> <!-- Test -->
 	<test thread-count="5" name="MyntraTests">

@@ -18,7 +18,7 @@ public class BaseForCucumber {
 		UIKeywords.openBrowser(browserName);
 		log.info("browser open");
 	}   
-    @After
+   // @After
 	public void close()throws Exception {
 		UIKeywords.tearDown();
 		log.info("Browser is closed");
