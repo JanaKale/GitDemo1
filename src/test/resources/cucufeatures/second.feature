@@ -1,8 +1,8 @@
 Feature: myntra site test
 
-Background:
+Background: 
 Given url लाँच करा
-#@smoke
+@smoke
 Scenario: verify Polo Search Result
 When enter polo in search box
 And press enter

@@ -24,32 +24,52 @@ import com.aventstack.extentreports.Status;
 public class MyListener extends TestBase implements ITestListener {
 	ExtentReports extent = ExtentReportUtility.getReportObject();
 	ExtentTest test;
-ThreadLocal <ExtentTest>extentTest=new ThreadLocal<ExtentTest>();
-@Override
+	ThreadLocal<ExtentTest> extentTest = new ThreadLocal<ExtentTest>();
+
+	@Override
 	public void onTestStart(ITestResult result) {
 		test = extent.createTest(result.getMethod().getMethodName());
-		extentTest.set(test);//It will set unique thread id
+		extentTest.set(test);// It will set unique thread id
+	}
+
+	@Override
+	public void onStart(ITestContext context) {
+
 	}
 
 	@Override
 	public void onTestFailure(ITestResult result) {
 		extentTest.get().fail(result.getThrowable());
-		String filepath=null;;
+		String filepath = null;
+		;
 		try {
 			filepath = ScreenshotUtility.getScreenshot(result.getMethod().getMethodName());
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-				extentTest.get().addScreenCaptureFromPath(filepath, result.getMethod().getMethodName());
+		extentTest.get().addScreenCaptureFromPath(filepath, result.getMethod().getMethodName());
 	}
 
 	@Override
 	public void onTestSuccess(ITestResult result) {
 		test.log(Status.PASS, "test passed");
 	}
+
 	@Override
 	public void onFinish(ITestContext context) {
 		extent.flush();
+	}
+
+	@Override
+	public void onTestSkipped(ITestResult result) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
+		// TODO Auto-generated method stub
+
 	}
 
 }

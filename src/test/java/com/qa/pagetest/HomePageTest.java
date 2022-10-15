@@ -12,7 +12,6 @@ import com.qa.pages.HomePage;
 import com.qa.pages.MobilesPage;
 
 public class HomePageTest extends TestBase {
-	private static final Logger log = Logger.getLogger(HomePageTest.class);
 	static HomePage homePage;
 
 	@Test(priority = 1)

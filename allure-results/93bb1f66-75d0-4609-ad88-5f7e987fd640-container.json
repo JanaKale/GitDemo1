@@ -1,0 +1,1 @@
+{"uuid":"93bb1f66-75d0-4609-ad88-5f7e987fd640","name":"com.qa.config.TestBase.setUp","children":["54cf5a59-10be-4ef9-b5d8-f6bb40340b80"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665664546338,"stop":1665664549758}],"afters":[],"start":1665664546338,"stop":1665664549758}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test_Suite" parallel="tests" thread-count="3">
+
+	<test name="Mobile">
+		<parameter name="browserName" value="edge"></parameter>
+		<parameter name="author" value="jana"></parameter>
+		<classes>
+			<class name="com.qa.pagetest.roughtests">
+				<methods>
+					<include name="Test"></include>
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+	<test name="Book">
+		<parameter name="browserName" value="chrome"></parameter>
+		<parameter name="author" value="varsha"></parameter>
+		<classes>
+			<class name="com.qa.pagetest.roughtests">
+				<methods>
+					<include name="bookTest"></include>
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+	<test name="Fashion">
+		<parameter name="browserName" value="edge"></parameter>
+		<parameter name="author" value="rani"></parameter>
+		<classes>
+			<class name="com.qa.pagetest.roughtests">
+				<methods>
+					<include name="fashionTest"></include>
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

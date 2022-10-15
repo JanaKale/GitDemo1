@@ -10,7 +10,6 @@ import com.qa.pages.HomePage;
 import com.qa.pages.MobilesPage;
 
 public class MobilePageTest extends TestBase {
-	private static final Logger log = Logger.getLogger(MobilePageTest.class);
 	@Test
 	public void Test() {
 		UIKeywords.launchURL("site_URL");

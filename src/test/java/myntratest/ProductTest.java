@@ -15,9 +15,10 @@ import com.qa.util.ExcelSupplier;
 public class ProductTest extends TestBase {
 	@Test
 	public void verifyPoloSearchResult() {
-		UIKeywords.launchURL("URL");
+		UIKeywords.driver.get("https://www.myntra.com/");
 		UIKeywords keyword=new UIKeywords();
 		keyword.sendKeys("search_box", "key");
+		log.info("polo entered in searchbox");
 		UIKeywords.hitButton(KeyEvent.VK_ENTER);
 		List<String> productTitles = UIKeywords.getText("product_txt");
 		productTitles.forEach(p -> System.out.println(p));
@@ -29,10 +30,12 @@ public class ProductTest extends TestBase {
 	public void verifyCategoryList() throws IOException {
 		ExcelSupplier obj = new ExcelSupplier();
 		List<String> expectedcategories = obj.readCategories();
-		UIKeywords.launchURL("URL");
+		UIKeywords.driver.get("https://www.myntra.com/");
 		UIKeywords.mouseHover("men_Menu");
 		UIKeywords.click("topwear_link");
+		log.info("clicked on topwear link");
 		List<String> actualCategories = UIKeywords.getText("categories");
+		log.info("list of categories got");
 		actualCategories = actualCategories.stream().map(cat -> cat.split("\\(")[0]).collect(Collectors.toList());
 		Assert.assertTrue(actualCategories.containsAll(expectedcategories), "category List not matched");
 	}

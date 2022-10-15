@@ -27,11 +27,11 @@ public class ScreenshotUtility extends keywords{
 		ashot.shootingStrategy(ShootingStrategies.viewportPasting(0));
 		BufferedImage img = ashot.takeScreenshot(UIKeywords.driver).getImage();
 		try {
-			 ImageIO.write(img, "PNG", new File("Screenshots/" + testmethodName + "_" + ".png"));
+			 ImageIO.write(img, "PNG", new File("Reports/" + testmethodName + "_" + ".png"));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		return "//Screenshots//" + testmethodName +".png";
+		return "//Reports//" + testmethodName +".png";
 
 	}
 }

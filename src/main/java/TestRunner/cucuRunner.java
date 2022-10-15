@@ -5,16 +5,17 @@ import org.testng.annotations.DataProvider;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
-@CucumberOptions(features = { "C:\\Users\\Shree\\MyFramework\\src\\test\\resources\\cucufeatures" }, glue = {
-		"stepDefinitions" }, tags = "@smoke or @regression", // and ,not can be used
+@CucumberOptions(features = { "src/test/resources/cucufeatures/datadriven.feature" }, glue = {
+		"stepDefinitions" }, tags = "@smoke or @sanity" ,//, and ,not can be used
 		plugin = { "pretty" }
-
+		//dryRun = true,
+		//publish = true
 )
 public class cucuRunner extends AbstractTestNGCucumberTests {
-	/*@Override
+	@Override
 	@DataProvider(parallel = true)
 	public Object[][] scenarios() {
 		return super.scenarios();
-	}*/
+	}
 
 }

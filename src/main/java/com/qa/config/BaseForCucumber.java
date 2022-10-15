@@ -1,4 +1,4 @@
-package com.qa.config;
+ package com.qa.config;
 
 import org.apache.log4j.Logger;
 

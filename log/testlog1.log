@@ -1358,3 +1358,214 @@
 2022-10-11 20:31:00,537 [main] INFO com.qa.config.TestBase - browser open
 2022-10-11 20:31:27,344 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
 2022-10-11 20:31:48,515 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 16:45:56,151 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:50:42,039 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:50:51,626 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:51:01,152 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:51:04,999 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:51:12,353 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:51:22,424 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:51:26,010 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:51:40,601 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:51:43,810 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:51:57,795 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:52:01,308 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:52:12,316 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:52:18,865 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:52:22,028 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:52:30,451 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:52:38,379 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:52:41,856 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:53:04,683 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:53:23,382 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:53:26,908 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:53:35,399 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:53:53,968 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:53:57,523 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:54:07,190 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:54:15,883 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:54:19,084 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:54:36,220 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:55:03,862 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:55:07,394 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:55:32,593 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:55:32,769 [main] INFO com.qa.pagetest.HomePageTest - Home Page Title:
+2022-10-13 17:55:32,769 [main] INFO com.qa.pagetest.HomePageTest - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-10-13 17:55:38,331 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:55:41,547 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:55:50,507 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:55:59,317 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:56:02,910 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:56:11,903 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:56:15,292 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:56:18,912 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:56:28,590 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:56:32,279 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:56:35,783 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:56:49,558 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:56:56,940 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:57:00,639 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:57:18,735 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:57:25,901 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:57:29,432 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:57:45,951 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:57:55,512 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:57:58,676 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:58:15,967 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:58:22,810 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:58:26,310 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:58:40,262 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:58:48,351 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:58:51,464 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:59:08,360 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:59:20,705 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:59:24,159 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 17:59:38,653 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 17:59:49,998 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 17:59:53,497 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:00:26,749 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:00:30,163 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:00:48,441 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 18:00:56,499 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:00:59,841 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:01:10,080 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 18:01:17,759 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:01:21,130 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:01:29,672 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 18:01:49,467 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:01:53,045 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:02:00,431 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 18:02:23,935 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:02:27,546 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:02:39,418 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 18:02:58,495 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:03:02,029 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:03:15,254 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 18:03:37,498 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:03:40,919 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:03:52,045 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 18:04:05,174 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:04:08,931 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:04:36,699 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 18:05:00,058 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:05:03,461 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:05:20,876 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.amazon.in/
+2022-10-13 18:05:45,017 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:05:49,756 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:06:06,592 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-13 18:06:17,484 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-13 18:06:30,867 [main] INFO com.qa.config.TestBase - browser open
+2022-10-13 18:06:45,197 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-13 18:07:03,468 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:01:58,840 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:02:02,072 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:02:15,907 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:02:17,442 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:02:18,008 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:02:31,396 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:02:33,069 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:02:34,634 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:02:47,992 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:02:49,758 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:02:50,343 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:03:03,623 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:03:05,052 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:03:05,686 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:03:19,090 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:03:20,691 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:03:21,829 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:03:35,343 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:08:00,164 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:08:01,122 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:08:15,021 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:08:16,808 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:08:17,545 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:08:31,066 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:08:32,562 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:08:34,779 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:08:48,195 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:08:49,887 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:08:50,597 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:09:04,051 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:09:05,799 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:09:06,677 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:09:20,484 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:09:22,116 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:09:22,861 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:09:36,226 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:18:45,868 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:18:49,514 [main] INFO com.qa.keywords.keywords - URL is launched  https://www.myntra.com/
+2022-10-15 13:19:36,188 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:19:49,845 [main] INFO com.qa.config.TestBase - clicked on Tshirt
+2022-10-15 13:19:50,102 [main] INFO com.qa.config.TestBase - clicked on sortby filter
+2022-10-15 13:19:50,345 [main] INFO com.qa.config.TestBase - clicked on popularity filter
+2022-10-15 13:19:53,667 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:19:55,539 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:20:11,155 [main] INFO com.qa.config.TestBase - clicked on topwear link
+2022-10-15 13:20:11,348 [main] INFO com.qa.config.TestBase - list of categories got
+2022-10-15 13:20:14,659 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:20:16,480 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:20:45,387 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:20:47,517 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:21:23,632 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:45:12,288 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:45:23,640 [main] INFO com.qa.config.TestBase - clicked on Tshirt
+2022-10-15 13:45:23,828 [main] INFO com.qa.config.TestBase - clicked on sortby filter
+2022-10-15 13:45:24,049 [main] INFO com.qa.config.TestBase - clicked on popularity filter
+2022-10-15 13:45:27,382 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:45:29,263 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:45:38,579 [main] INFO com.qa.config.TestBase - clicked on topwear link
+2022-10-15 13:45:48,195 [main] INFO com.qa.config.TestBase - list of categories got
+2022-10-15 13:45:51,486 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:45:53,501 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:46:21,360 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 13:46:23,175 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 13:46:54,498 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:24:51,385 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:25:07,433 [main] INFO com.qa.config.TestBase - clicked on topwear link
+2022-10-15 14:25:07,794 [main] INFO com.qa.config.TestBase - list of categories got
+2022-10-15 14:25:11,077 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:26:02,623 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:26:12,344 [main] INFO com.qa.config.TestBase - clicked on Tshirt
+2022-10-15 14:26:12,513 [main] INFO com.qa.config.TestBase - clicked on sortby filter
+2022-10-15 14:26:12,721 [main] INFO com.qa.config.TestBase - clicked on popularity filter
+2022-10-15 14:26:16,092 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:26:18,168 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:26:29,657 [main] INFO com.qa.config.TestBase - clicked on topwear link
+2022-10-15 14:26:29,833 [main] INFO com.qa.config.TestBase - list of categories got
+2022-10-15 14:26:33,098 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:26:35,151 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:27:02,771 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:27:04,798 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:27:29,626 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:28:34,134 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:28:44,876 [main] INFO com.qa.config.TestBase - clicked on Tshirt
+2022-10-15 14:28:45,089 [main] INFO com.qa.config.TestBase - clicked on sortby filter
+2022-10-15 14:28:45,284 [main] INFO com.qa.config.TestBase - clicked on popularity filter
+2022-10-15 14:28:48,694 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:40:48,323 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:41:01,001 [main] INFO com.qa.config.TestBase - clicked on Tshirt
+2022-10-15 14:41:01,161 [main] INFO com.qa.config.TestBase - clicked on sortby filter
+2022-10-15 14:41:01,306 [main] INFO com.qa.config.TestBase - clicked on popularity filter
+2022-10-15 14:41:04,780 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:41:08,616 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:41:18,320 [main] INFO com.qa.config.TestBase - clicked on topwear link
+2022-10-15 14:41:18,515 [main] INFO com.qa.config.TestBase - list of categories got
+2022-10-15 14:41:21,925 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:41:25,802 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:41:53,139 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:41:57,477 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:42:28,840 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:43:54,342 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:44:05,152 [main] INFO com.qa.config.TestBase - clicked on Tshirt
+2022-10-15 14:44:05,319 [main] INFO com.qa.config.TestBase - clicked on sortby filter
+2022-10-15 14:44:05,452 [main] INFO com.qa.config.TestBase - clicked on popularity filter
+2022-10-15 14:44:08,774 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:44:12,671 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:44:24,250 [main] INFO com.qa.config.TestBase - clicked on topwear link
+2022-10-15 14:44:24,437 [main] INFO com.qa.config.TestBase - list of categories got
+2022-10-15 14:44:27,774 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:44:31,612 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:44:58,499 [main] INFO com.qa.config.TestBase - Browser is closed
+2022-10-15 14:45:02,369 [main] INFO com.qa.config.TestBase - browser open
+2022-10-15 14:45:33,851 [main] INFO com.qa.config.TestBase - Browser is closed

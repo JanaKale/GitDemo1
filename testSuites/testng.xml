@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test_Suite">
+	<listeners>
+		<listener class-name="com.qa.util.Listeners.MyListener"></listener>
+		<listener class-name="com.qa.util.Listeners.MyTransformer"></listener>
+	</listeners>
+	<parameter name="browserName" value="edge"></parameter>
+	<test thread-count="5" name="AmazonTests">
+		<classes>
+			<class name="com.qa.amazontests.LoginTest" />
+			<class name="com.qa.amazontests.AccountRegTest" />
+			<class name="com.qa.amazontests.ProductSearchTest" />
+			<class name="com.qa.pagetest.LoginPageTest" />
+			<class name="com.qa.pagetest.HomePageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="5" name="MyntraTests">
+		<classes>
+			<class name="myntratest.MenTshirtTest" />
+			<class name="myntratest.ProductTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

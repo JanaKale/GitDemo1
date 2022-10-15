@@ -1,5 +1,5 @@
 Feature: Data driven testing in cucumber
-
+@sanity
  Scenario Outline: data driven testing
  Given I have two numbers <num1> and <num2>
  When I add them 
@@ -11,7 +11,7 @@ Feature: Data driven testing in cucumber
    |5|6|
    |23|9|
    |13|7|
-   
+ @smoke  
  Scenario Outline: data driven testing read data from excel
  Given I have <rownum>
  When I add them 

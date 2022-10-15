@@ -10,7 +10,6 @@ import com.qa.pages.BooksPage;
 import com.qa.pages.HomePage;
 
 public class BookPageTest extends TestBase{
-	private static final Logger log = Logger.getLogger(BookPageTest.class);
 	@Test
 	public void bookTest() throws InterruptedException {
 		UIKeywords.launchURL("site_URL");
